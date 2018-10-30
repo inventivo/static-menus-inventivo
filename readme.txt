@@ -23,7 +23,7 @@ Save WordPress menus as static files for faster page loading times.
 
 Static menus - WordPress Plugin
 
-This plugin saves every WordPress menu as a static HTML file in the folder /static in your server root directory. Whenever you save a menu the HTML files a recreated.
+This plugin saves every WordPress menu as a static HTML file in the folder /static in your server root directory. Whenever you save a menu the HTML files are recreated.
 Including the menus as static files saves time for rendering the menus which results in faster page loading times.
 
 This is an example for including the files in your WordPress Theme:
