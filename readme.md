@@ -1,4 +1,4 @@
-![Illustration: Static menus Plugin for WordPress](https://ps.w.org/inventivo-cookie-notice/assets/banner-772x250.jpg?rev=1881239)
+![Illustration: Static menus Plugin for WordPress](http://plugins.svn.wordpress.org/static-menus-inventivo/assets/banner-1544x500-rtl.png)
 
 # Static menus for WordPress | inventivo
 
@@ -21,12 +21,6 @@ Visit our <a href="https://www.inventivo.de">website</a> in order to see the plu
 * Lighweight code
 
 **Get your copy of the Static menus Plugin now!**
-
-## Screenshots
-
-![Illustration: Static menus Plugin for WordPress - Screenshot 1](https://ps.w.org/inventivo-cookie-notice/trunk/screenshot-1.png?rev=1943671)
-
-![Illustration: Static menus Plugin for WordPress - Screenshot 2](https://ps.w.org/inventivo-cookie-notice/trunk/screenshot-2.png?rev=1943671)
 
 ### Prerequisites
 
