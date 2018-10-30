@@ -8,7 +8,7 @@ Author:       Nils Harder
 Author URI:   https://www.inventivo.de
 Tags: static menus, page speed
 Requires at least: 3.0
-Tested up to: 4.9.8
+Tested up to: 5.0.0
 Stable tag: 0.0.1
 Text Domain: inventivo-static-menus
 Domain Path: /languages
