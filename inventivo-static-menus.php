@@ -36,14 +36,17 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 add_action('wp_update_nav_menu', array(inventivoStaticMenus,'inv_staticnav'));
 
-class inventivoStaticMenus {
+class inventivoStaticMenus
+{
 
-	public function __construct() {
+	public function __construct()
+    {
 
 	}
 
 
-	public function inv_staticnav() {
+	public function inv_staticnav()
+    {
 
 		// Get registered menus
 		$menus = get_registered_nav_menus();
@@ -84,7 +87,8 @@ class inventivoStaticMenus {
 	}
 
 	// Create directory if it doesn't exist.
-	public function file_force_contents($dir, $contents){
+	public function file_force_contents($dir, $contents)
+    {
 		$parts = explode('/', $dir);
 		$file = array_pop($parts);
 		$root = array_shift($parts);
@@ -97,7 +101,3 @@ class inventivoStaticMenus {
 		file_put_contents("$dir/$file", $contents);
 	}
 }
-
-
-
-?>
