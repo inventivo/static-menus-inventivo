@@ -3,13 +3,13 @@ Contributors: inventivogermany
 Plugin Name:  Static Menus | inventivo
 Plugin URI:   https://www.inventivo.de/wordpress-agentur/wordpress-plugins
 Description:  Save WordPress menus as static files for faster page loading times
-Version:      0.0.2
+Version:      0.0.3
 Author:       Nils Harder
 Author URI:   https://www.inventivo.de
 Tags: static menus, page speed
 Requires at least: 3.0
 Tested up to: 5.2.2
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 Text Domain: inventivo-static-menus
 Domain Path: /languages
 License:      GPL2
