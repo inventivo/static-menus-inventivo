@@ -1,0 +1,14 @@
+{
+  "name": "inventivo/static-menus-inventivo",
+  "description": "Enhanced website performance by creating static files for your menus.",
+  "homepage": "https://www.inventivo.de",
+  "license": "CC BY-ND",
+  "authors": [
+    {
+      "name": "Nils Harder",
+      "email": "nils.harder@inventivo.de",
+      "homepage": "https://www.inventivo.de"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
