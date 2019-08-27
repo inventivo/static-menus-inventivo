@@ -51,13 +51,13 @@ class InventivoStaticMenus
 
         // Set files to output static nav menus
         foreach ($menus as $location => $description ) {
-            $files[] = $_SERVER['DOCUMENT_ROOT'].'/static/'.$location.'.html';
+            $files[] = $_SERVER['DOCUMENT_ROOT'].'/static/'.$location.ICL_LANGUAGE_CODE.'.html';
         }
 
         // Get menu html code
         foreach($files as $file):
             $menuid = explode('/', $file);
-            $menuid = str_replace('.html', '', end($menuid));
+            $menuid = str_replace(ICL_LANGUAGE_CODE.'.html', '', end($menuid));
 
             // echo Nav menu to buffer
             ob_start();
